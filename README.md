@@ -1,5 +1,7 @@
 # Smart-pill-dispenser
 
+A smart pill dispenser is an automated medication management system that ensures precise, scheduled pill dispensing while providing timely reminders through mobile apps or other interfaces, improving medication adherence and patient health outcomes.
+
 # Problem statement
 
 Medication non-adherence is a significant healthcare issue, leading to poor health outcomes and increased healthcare costs.Patients often forget to take their prescribed medications on time, leading to missed doses and compromised treatment effectiveness.Existing solutions for medication reminders lack smart features and may not effectively address the needs of patients with complex medication regimens.
