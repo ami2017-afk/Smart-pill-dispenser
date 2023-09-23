@@ -1,5 +1,4 @@
 # Smart-pill-dispenser
-
 #Problem statement
 *Medication non-adherence is a significant healthcare issue, leading to poor health outcomes and increased healthcare costs.
 *Patients often forget to take their prescribed medications on time, leading to missed doses and compromised treatment effectiveness.
