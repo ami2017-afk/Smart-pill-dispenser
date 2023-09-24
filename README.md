@@ -10,6 +10,9 @@ Medication non-adherence is a significant healthcare issue, leading to poor heal
 
 Develop a smart pill dispenser system integrated with a mobile app to ensure timely and accurate medication adherence.Utilize a combination of hardware components, including Arduino, NodeMCU, servomotor, RTC (Real-Time Clock), IR sensor, power supply, and a buzzer, to create the smart pill dispenser.Implement a mobile app with features such as medication scheduling, reminders, and real-time monitoring of pill dispensing.Integrate the app with the smart dispenser through Wi-Fi connectivity (NodeMCU), enabling remote control and monitoring.
 
+![img](https://github.com/ami2017-afk/Smart-pill-dispenser/assets/110712401/0ad317f3-c931-45f5-b3fc-9916aef56883)
+
+
 # Requirements
 
 1.Arduino: Used to control and manage the hardware components of the smart pill dispenser.
