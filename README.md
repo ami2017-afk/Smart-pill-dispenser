@@ -29,3 +29,6 @@ Develop a smart pill dispenser system integrated with a mobile app to ensure tim
 # Conclusion
 
 A smart pill dispenser, integrated with a mobile app, addresses the problem of medication non-adherence by providing timely reminders and a user-friendly interface for managing medication schedules.The combination of Arduino, NodeMCU, servomotor, RTC, IR sensor, power supply, and buzzer forms a comprehensive solution to ensure patients take their medication as prescribed, ultimately improving health outcomes and reducing healthcare costs.
+
+![output](https://github.com/ami2017-afk/Smart-pill-dispenser/assets/110712401/d09a55d5-9d36-4320-8d63-e05b94177654)
+
